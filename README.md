@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/ayoub-mnafeg-629390150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-mnafeg-629390150" height="30" width="40" /></a>
-<a href="https://fb.com/ayoubmn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoubmn04" height="30" width="40" /></a>
-<a href="https://instagram.com/ayoub_mnafeg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoub_mnafeg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malek-ben-dakhli-635422207/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-mnafeg-629390150" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61555129739435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoubmn04" height="30" width="40" /></a>
+<a href="https://www.instagram.com/malekbendakhli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoub_mnafeg" height="30" width="40" /></a>
 </p>
 
 library project : <img alt="malek ben dakhli" src="">
